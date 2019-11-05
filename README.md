@@ -9,7 +9,4 @@ ZILLIZ Analytics, with full intellectual property, is the next-generation visual
 > 2. Picasso graphic rendering engine
 > 3. Infini interactive analytics interface
 
-
-## [ZILLIZ Analytics White Paper](white_paper.md)
-
 To try this product, please contact support@zilliz.com.
