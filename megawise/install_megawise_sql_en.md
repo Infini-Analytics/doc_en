@@ -2,8 +2,9 @@
 id: "install_megawise"
 lang: "en"
 title: "Install MegaWise"
-label1: "User Manual"
-label2: "MegaWise"
+label1: "ZILLIZ Analytics"
+label2: "User Manual"
+label3: "MegaWise"
 ---
 # Install MegaWise
 
