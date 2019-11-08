@@ -1,8 +1,8 @@
 ---
 id: "install_megawise"
-lang: "cn"
+lang: "en"
 title: "Install MegaWise"
-label1: "用户手册"
+label1: "User Manual"
 label2: "MegaWise"
 ---
 # Install MegaWise
