@@ -1,3 +1,10 @@
+---
+id: "install_megawise"
+lang: "cn"
+title: "Install MegaWise"
+label1: "用户手册"
+label2: "MegaWise"
+---
 # Install MegaWise
 
 
