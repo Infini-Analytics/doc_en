@@ -1,3 +1,10 @@
+---
+id: "megawise_intro"
+lang: "en"
+title: "MegaWise Overview"
+label1: "User Manual"
+label2: "MegaWise"
+---
 # MegaWise
 
 ## Introduction
